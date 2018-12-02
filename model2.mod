@@ -1,5 +1,5 @@
 # MPSiS 2018/2019
-# Model CFAP, L/P
+# Model CFAP, L/P - problem W2, CW_3 
 
 /* Number of paths, edges, demands */
 param P_count, integer, >= 0;
